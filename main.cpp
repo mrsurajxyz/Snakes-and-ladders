@@ -296,7 +296,7 @@ void snakesandladdergame::displayGameRecords() {
     cout<<"*                                                          *\n";
     cout<<"*                                                          *\n";
     cout<<"*                      DEVELOPED BY :-                     *\n";
-    cout<<"*                      Prerna Sharma                       *\n";
+    cout<<"*                     suraj kumar                          *\n";
     cout<<"*                                                          *\n";
     cout<<"*                                                          *\n";
     cout<<"*                                                          *\n";
